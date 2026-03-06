@@ -9,6 +9,7 @@ nav_order: 8
 Major changes:
 
 - KubeVirt: Add support for static IP configuration from cloud-init
+- Hetzner: Add support for network configuration
 
 Minor changes:
 
