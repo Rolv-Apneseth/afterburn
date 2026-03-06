@@ -15,6 +15,7 @@ Minor changes:
 
 - KubeVirt: Refactor for a more integrated testing, similar to ProxmoxVE
 - Makefile: download `90-afterburn-authorized-keys-file.conf` for rpm building
+- Hetzner: Add the `HETZNER_PUBLIC_IPV6` attribute
 
 Packaging changes:
 
